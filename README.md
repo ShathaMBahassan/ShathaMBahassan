@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**ShathaMBahassan/ShathaMBahassan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Shatha 👋
 
-Here are some ideas to get you started:
+Software Developer specialized in Django, Python, APIs, and SQL.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Python
+- Django
+- JavaScript
+- MySQL
+- REST APIs
+- HTML/CSS
+
+
